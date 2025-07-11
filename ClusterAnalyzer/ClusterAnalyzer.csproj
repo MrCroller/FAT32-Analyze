@@ -7,4 +7,8 @@
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="RawDiskLib" Version="0.2.1" />
+  </ItemGroup>
+
 </Project>
